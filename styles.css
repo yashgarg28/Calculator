@@ -1,5 +1,16 @@
+
+.button2 {
+    padding: 20px;
+    width: 140px;
+    margin: 8px 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+}
+
 .button {
     padding: 20px;
+    width: 66px;
     margin: 8px 3px;
     border: 2px solid black;
     border-radius: 9px;
@@ -7,6 +18,7 @@
 }
 
 .row input {
+    width: 220px;
     margin: 0px;
     padding: 10px 38px;
     border: 2px solid black;
